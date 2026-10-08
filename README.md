@@ -1,17 +1,18 @@
-# firebase_flutter
+# Flutter Firebase Starter
 
-A new Flutter project.
+A minimal Flutter app wired up to Firebase (Core and Cloud Firestore). It's a single `main.dart`, used to practise the Firebase setup.
 
-## Getting Started
+## Tech stack
 
-This project is a starting point for a Flutter application.
+Flutter · Dart · Firebase Core · Cloud Firestore
 
-A few resources to get you started if this is your first Flutter project:
+## Getting started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# firebase_flutter" 
+## Author
+
+**Mati ul Rehman**: [github.com/Matiz009](https://github.com/Matiz009)
